@@ -1,2 +1,2 @@
-include ':app', ':libreriapruebas'
+include ':app', ':libreriapruebas', ':RFIDAPI3Library', ':API3_LIB-release-2.0.1.19'
 rootProject.name='LibreriaPrueba'
